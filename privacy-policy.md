@@ -99,7 +99,7 @@ Bu gizlilik politikasını güncelleyebiliriz. Önemli değişiklikler uygulama 
 ## 11. İletişim
 
 Gizlilik ile ilgili sorularınız için:
-- **E-posta:** [email@yourdomain.com]
+- **E-posta:** [destek.erdidurkan@gmail.com]
 - **Uygulama İçi:** Ayarlar > Destek
 
 ## 12. Yasal Uyum
